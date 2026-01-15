@@ -11,6 +11,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
+  "homepage": "https://codekid-cyber1.github.io/XENON/",
   "dependencies": {
     "@tailwindcss/postcss": "^4.1.18",
     "react": "^19.2.0",
